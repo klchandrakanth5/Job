@@ -1,4 +1,5 @@
-scikit-learn
+streamlit
+beautifulsoup4
 pandas
 numpy
-streamlit
+# Add any other packages you're using in your app
